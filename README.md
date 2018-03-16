@@ -26,9 +26,9 @@ Para la formulación de entrevistas y encuestas, se ha pensado lo siguiente:
 
 Es así como se llego a plantear preguntas que me permitieran conocer de que manera organizar la información de acuerdo a lo que el usuario más busca o tiene mayor preferencia al escoger un evento.
 
-    1.1. Encuesta online. [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdj8Ffw1IMyD9e_eYjiEkOvNJ9byX2mnxafHbSzBP7A3Uoy7w/viewform?usp=sf_link)
+* Encuesta online [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdj8Ffw1IMyD9e_eYjiEkOvNJ9byX2mnxafHbSzBP7A3Uoy7w/viewform?usp=sf_link)
 
-    1.2. Preguntas para la entrevista con usuarios. [Ver documento](https://docs.google.com/document/d/1hp4pRSW91uJz8U5exG9--DuwU6Hvhr5Ms5C8aU0GdLQ/edit)
+* Preguntas para la entrevista con usuarios. [Ver documento](https://docs.google.com/document/d/1hp4pRSW91uJz8U5exG9--DuwU6Hvhr5Ms5C8aU0GdLQ/edit)
 
 2. Entrevista con usuarios.
 
