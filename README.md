@@ -9,10 +9,7 @@
 
 ## Descripción del proyecto:
 
-
-
-## Requisitos del reto:
-
+Aplicar los procesos de investigación como UX Designer para optimizar el diseño de la página de Teleticket, mejorando el desempeño y animar a los usuarios a que se queden e investiguen más de los eventos que esta página promociona y vende al público.
 
 
 # Etapas DCU (Diseño Centrado en el Usuario)
@@ -22,6 +19,12 @@
 Actividades:
 
 1. Formulación de las preguntas para la entrevista con usuarios y encuesta online.
+
+Para la formulación de entrevistas y encuestas, se ha pensado lo siguiente:
+
+* ¿Cómo priorizar la información que se da a los usuarios en el landing page?
+
+Es así como se llego a plantear preguntas que me permitieran conocer de que manera organizar la información de acuerdo a lo que el usuario más busca o tiene mayor preferencia al escoger un evento.
 
     1.1. Encuesta online. [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdj8Ffw1IMyD9e_eYjiEkOvNJ9byX2mnxafHbSzBP7A3Uoy7w/viewform?usp=sf_link)
 
