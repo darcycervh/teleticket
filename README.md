@@ -23,9 +23,9 @@ Actividades:
 
 1. Formulación de las preguntas para la entrevista con usuarios y encuesta online.
 
-    1.1. Encuesta online. [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdkAb4pjN-tFiSKlPWRDnOiD48SN_HWmi2sxaVfRP2aVTitew/viewform?usp=sf_link)
+    1.1. Encuesta online. [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdj8Ffw1IMyD9e_eYjiEkOvNJ9byX2mnxafHbSzBP7A3Uoy7w/viewform?usp=sf_link)
 
-    1.2. Preguntas para la entrevista con usuarios. [Ver documento](https://docs.google.com/document/d/1UXy9qiQbRy-DGF_IcrX0-WtSGQSyRDqTr--_OCIeO5M/edit?usp=sharing)
+    1.2. Preguntas para la entrevista con usuarios. [Ver documento](https://docs.google.com/document/d/1hp4pRSW91uJz8U5exG9--DuwU6Hvhr5Ms5C8aU0GdLQ/edit)
 
 2. Entrevista con usuarios.
 
