@@ -32,6 +32,10 @@ Es así como se llego a plantear preguntas que me permitieran conocer de que man
 
 2. Entrevista con usuarios.
 
+![user1](assets/images/interview/u1.jpg)
+![user2](assets/images/interview/u2.jpg)
+![user3](assets/images/interview/u3.jpg)
+
 3. Encuesta online a través de Google Forms.
 
 * Recolección de datos de las respuestas dadas en la encuesta.
