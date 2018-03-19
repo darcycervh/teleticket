@@ -40,12 +40,12 @@ Es así como se llego a plantear preguntas que me permitieran conocer de que man
 
 * Recolección de datos de las respuestas dadas en la encuesta.
 
-![pregunta1](assets/images/encuesta/p1.png)
-![pregunta2](assets/images/encuesta/p2.png)
-![pregunta3](assets/images/encuesta/p3.png)
-![pregunta4](assets/images/encuesta/p4.png)
-![pregunta5](assets/images/encuesta/p5.png)
-![pregunta6](assets/images/encuesta/p6.png)
+![pregunta1](assets/images/survey/p1.png)
+![pregunta2](assets/images/survey/p2.png)
+![pregunta3](assets/images/survey/p3.png)
+![pregunta4](assets/images/survey/p4.png)
+![pregunta5](assets/images/survey/p5.png)
+![pregunta6](assets/images/survey/p6.png)
 
 ### B. Síntesis y Definición.
 
