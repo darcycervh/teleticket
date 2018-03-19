@@ -101,6 +101,14 @@ Se obtuvo los siguientes feedbacks:
 * Preferiría buscar por nombre del evento.
 * Se vé dinámico e interesante.
 
+**Comparación de la página de teleticket y el prototipo 1.0**
+
+Página actual de Teleticket:
+![Página de Teleticket](assets/images/landingpage.png)
+
+Prototipo versión 1.0:
+![Prototipo](assets/images/prototipo.png)
+
 2. Feedback de usuarios.
 
 ### Presentación final.
