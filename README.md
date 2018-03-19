@@ -76,15 +76,33 @@ Actividades:
 
 1. Realización del prototipo.
 
+Prototipo 1.0:
+
+En este prototipo, se ha querido simplicar la información que da Teleticket en su página, haciendo resaltar lo que un usario consumidor utiliza más de la página, que es buscar y comprar eventos.
+Pero, no solo eso sino también priorizar el campo de puntos de pago para comprar de manera presencial y, para quienes son empresa o promotores incentivarlos también a vender sus entradas con Teleticket.
+Identificando por último a información que detalla más cómo empresa en la sección de footer.
+
+Entonces, el prototipo realizado es:
+[Ver prototipo 1.0](https://marvelapp.com/2f07a58).
+
 ### E. User Testing
 
 Actividades: 
 
 1. Realización del testing.
 
+**Protoripo 1.0**:
+
+Se obtuvo los siguientes feedbacks:
+
+* Excelente.
+* Está bastante buena.
+* En el buscador preferiria que estuviese tanto la opción de buscar por evento y el buscador por fechas.
+* Preferiría buscar por nombre del evento.
+* Se vé dinámico e interesante.
+
 2. Feedback de usuarios.
 
 ### Presentación final.
 
 [Ver presentación del prototipo final]().
-
