@@ -65,10 +65,16 @@ Actividades:
 
 1. Definición del user persona.
 
+Aquí se pasa a definir el user persona teniendo en cuenta los resultados más resaltantes de la encuesta.
+
+![user persona](assets/images/user-persona.png)
+
 2. Definición de los Problems Statements.
 
 3. Realización del Storyboard
 
+![storyboard](assets/images/storyboard1.png)
+![storyboard](assets/images/storyboard2.png)
 
 ### D. Prototipado.
 
