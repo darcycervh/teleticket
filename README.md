@@ -1,4 +1,4 @@
-# Rediseño de la página de Teletickeet
+# Rediseño de la página de Teleticket
 
 ![Teleticket Logo](assets/images/teleticket.jpg)
 
@@ -57,9 +57,12 @@ Actividades:
 
     * Paso 1.- En post-its se colocó datos obtenidos en la encuesta y entrevista.
 
+    ![ideacion](assets/images/ideación.png)
     * Paso 2: Separar en grupos por temas.
 
+    ![afinidad](assets/images/afinidad.png)
     * Paso 3: Priorizar los temas que se obtuvieron desde el punto de vista del usuario.
+    ![priorizando](assets/images/organización.png)
 
 ### C. Ideación.
 
