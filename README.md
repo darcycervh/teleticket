@@ -20,15 +20,19 @@ Actividades:
 
 1. Formulación de las preguntas para la entrevista con usuarios y encuesta online.
 
-Para la formulación de entrevistas y encuestas, se ha pensado lo siguiente:
 
-* ¿Cómo priorizar la información que se da a los usuarios en el landing page?
+* Encuesta online:
 
-Es así como se llego a plantear preguntas que me permitieran conocer de que manera organizar la información de acuerdo a lo que el usuario más busca o tiene mayor preferencia al escoger un evento.
+Para la formulación de las preguntas de la encuesta fue con intención de hallar que aspectos encuentra relevante el usuario al buscar un evento en una página web. 
+Para luego, compararlo con las respuestas y encontrar que es lo que está funcionando mal con el diseño de la página.
 
-* Encuesta online [Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdj8Ffw1IMyD9e_eYjiEkOvNJ9byX2mnxafHbSzBP7A3Uoy7w/viewform?usp=sf_link)
+[Ver encuesta](https://docs.google.com/forms/d/e/1FAIpQLSdj8Ffw1IMyD9e_eYjiEkOvNJ9byX2mnxafHbSzBP7A3Uoy7w/viewform?usp=sf_link)
 
-* Preguntas para la entrevista con usuarios. [Ver documento](https://docs.google.com/document/d/1hp4pRSW91uJz8U5exG9--DuwU6Hvhr5Ms5C8aU0GdLQ/edit)
+* Preguntas para la entrevista con usuarios:
+
+En esta etapa se profundiza más acerca de los problemas que encuentra el usuario al realizar su búsqueda o compra de entrada por páginas webs.
+
+[Ver guía de entrevista](https://docs.google.com/document/d/1hp4pRSW91uJz8U5exG9--DuwU6Hvhr5Ms5C8aU0GdLQ/edit)
 
 2. Entrevista con usuarios.
 
@@ -53,26 +57,43 @@ Actividades:
 
 1. Definir el problema:
 
-* Se utilizó como herramienta el Diagrama de Afinidad.
+Habiendo conocido que problemas enfrenta el usuario al adquirir una entrada en una página web, se realiza el **diagrama de afinidad**.
 
-    * Paso 1.- En post-its se colocó datos obtenidos en la encuesta y entrevista.
+* Paso 1:
 
-    ![ideacion](assets/images/ideación.png)
-    * Paso 2: Separar en grupos por temas.
+En post-its se colocó datos obtenidos en la entrevista.
+![ideacion](assets/images/ideación.png)
 
-    ![afinidad](assets/images/afinidad.png)
-    * Paso 3: Priorizar los temas que se obtuvieron desde el punto de vista del usuario.
-    ![priorizando](assets/images/organización.png)
+* Paso 2: Separar en grupos por temas.
+
+Aquí se pasa a agrupar por similitud de tema cada post-it , obteniendo cinco grupos:
+
+    * Información.
+    * Diseño.
+    * Compra online.
+    * Elección de página de eventos.
+    * Opciones para implementar
+
+![afinidad](assets/images/afinidad.png)
+
+* Paso 3: 
+
+Priorizar los temas que se obtuvieron desde el punto de vista del usuario.
+Se escoge estos temas, que es de acuerdo a los problemas que más frecuentan tener los usuarios.
+
+![priorizando](assets/images/organización.png)
 
 ### C. Ideación.
 
 1. Definición del user persona.
 
-Aquí se pasa a definir el user persona teniendo en cuenta los resultados más resaltantes de la encuesta.
+Aquí se pasa a definir el user persona teniendo en cuenta los resultados más resaltantes en la encuesta.
 
 ![user persona](assets/images/user-persona.png)
 
 2. Definición de los Problems Statements.
+
+
 
 3. Realización del Storyboard
 
@@ -118,8 +139,9 @@ Página actual de Teleticket:
 Prototipo versión 1.0:
 ![Prototipo](assets/images/prototipo.png)
 
-2. Feedback de usuarios.
+Prototipo final:
+![Prototipo](assets/images/landingpage2.png)
 
-### Presentación final.
+# Presentación final.
 
-[Ver presentación del prototipo final]().
+[Ver presentación del prototipo final](https://marvelapp.com/320516j).
