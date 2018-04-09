@@ -1,6 +1,6 @@
 # Rediseño de la página de Teleticket
 
-![Teleticket Logo](assets/images/teleticket.jpg)
+![teleticket](https://user-images.githubusercontent.com/32311166/38524581-afedb89c-3c14-11e8-943b-7a075ccaca86.jpg)
 
 ## Desarrollado para:
 
@@ -142,6 +142,6 @@ Prototipo versión 1.0:
 Prototipo final:
 ![Prototipo](assets/images/landingpage2.png)
 
-# Presentación final.
+# Producto final.
 
 [Ver presentación del prototipo final](https://marvelapp.com/320516j).
